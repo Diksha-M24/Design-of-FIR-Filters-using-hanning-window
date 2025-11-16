@@ -11,6 +11,7 @@
   PC Installed with SCILAB 
 
 # PROGRAM 
+
 ```
 clear;
 close;
@@ -42,11 +43,9 @@ ylabel('Magnitude');
 title('Frequency Response of Low Pass FIR Filter');
 ```
 
-
 # OUTPUT
 
 <img width="1223" height="707" alt="image" src="https://github.com/user-attachments/assets/3154d48d-6dcd-408a-8b91-59be0043a6e4" />
-
 
 # RESULT
 
